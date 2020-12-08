@@ -1,3 +1,0 @@
-/home/zzy/Linux_Server_Example/zzy_WebServer/source_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/zzy/Linux_Server_Example/zzy_WebServer/source_code/cmake-build-debug/CMakeFiles/zzy_webserver.dir
-/home/zzy/Linux_Server_Example/zzy_WebServer/source_code/cmake-build-debug/CMakeFiles/edit_cache.dir
